@@ -14,9 +14,3 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 cmake-build-debug
-
-# Stm32 editor boilerplate
-Drivers
-Debug
-.settings
-.metadata

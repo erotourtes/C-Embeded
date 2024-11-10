@@ -1,0 +1,8 @@
+13:31:26 **** Clean-only build of configuration Debug for project lab1 ****
+make -j6 clean 
+rm -rf default.size.stdout lab1.elf lab1.list lab1.map
+ 
+13:31:27 **** Clean-only build of configuration Debug for project lab2 ****
+make -j6 clean 
+rm -rf default.size.stdout lab2.elf lab2.list lab2.map
+ 
