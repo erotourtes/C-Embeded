@@ -1,7 +1,7 @@
-13:31:27 **** Clean-only build of configuration Debug for project lab2 ****
+15:15:48 **** Clean-only build of configuration Debug for project lab2 ****
 make -j6 clean 
 rm -rf default.size.stdout lab2.elf lab2.list lab2.map
  
 
-13:31:27 Build Finished. 0 errors, 0 warnings. (took 305ms)
+15:15:48 Build Finished. 0 errors, 0 warnings. (took 264ms)
 
