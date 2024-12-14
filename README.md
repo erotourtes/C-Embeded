@@ -11,3 +11,4 @@ https://github.com/user-attachments/assets/a4f9cc93-3f50-4b25-baf6-b1f76af91ff0
 ## Lab5
 https://github.com/user-attachments/assets/376755f7-4ee9-4e27-a023-ad7e487d8690
 
+![image](https://github.com/user-attachments/assets/dab6917e-de70-4d6f-bcff-4dd684756946)
